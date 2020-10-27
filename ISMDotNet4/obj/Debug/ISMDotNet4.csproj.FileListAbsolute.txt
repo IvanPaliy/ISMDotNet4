@@ -1,0 +1,13 @@
+D:\ISMProject\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe.config
+D:\ISMProject\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe
+D:\ISMProject\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.pdb
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csprojAssemblyReference.cache
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.Form1.resources
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.Properties.Resources.resources
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.GenerateResource.cache
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.CoreCompileInputs.cache
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.exe
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.pdb
+D:\ISMProject\ISMDotNet4\ISMDotNet4\bin\Debug\MyLibary.dll
+D:\ISMProject\ISMDotNet4\ISMDotNet4\bin\Debug\MyLibary.pdb
+D:\ISMProject\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.CopyComplete

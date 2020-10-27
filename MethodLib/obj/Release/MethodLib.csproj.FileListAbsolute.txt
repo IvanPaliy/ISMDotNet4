@@ -1,0 +1,6 @@
+D:\ISMProject\ISMDotNet4\MethodLib\bin\Release\MethodLib.dll
+D:\ISMProject\ISMDotNet4\MethodLib\bin\Release\MethodLib.pdb
+D:\ISMProject\ISMDotNet4\MethodLib\obj\Release\MethodLib.csprojAssemblyReference.cache
+D:\ISMProject\ISMDotNet4\MethodLib\obj\Release\MethodLib.csproj.CoreCompileInputs.cache
+D:\ISMProject\ISMDotNet4\MethodLib\obj\Release\MethodLib.dll
+D:\ISMProject\ISMDotNet4\MethodLib\obj\Release\MethodLib.pdb
